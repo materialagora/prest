@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/clbanning/mxj/j2x"
-	"github.com/prest/prest/config"
-	"github.com/prest/prest/middlewares/statements"
+	"github.com/materialagora/prest/config"
+	"github.com/materialagora/prest/middlewares/statements"
 )
 
 func getVars(path string) (paths map[string]string) {

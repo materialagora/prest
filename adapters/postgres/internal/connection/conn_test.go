@@ -3,7 +3,7 @@ package connection
 import (
 	"testing"
 
-	config "github.com/prest/prest/config"
+	config "github.com/materialagora/prest/config"
 )
 
 func init() {

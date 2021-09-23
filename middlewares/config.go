@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"github.com/prest/prest/config"
+	"github.com/materialagora/prest/config"
 	"github.com/urfave/negroni"
 )
 

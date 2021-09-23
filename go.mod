@@ -1,6 +1,6 @@
-module github.com/prest/prest
+module github.com/materialagora/prest
 
-go 1.15
+go 1.16
 
 require (
 	github.com/auth0/go-jwt-middleware v1.0.1

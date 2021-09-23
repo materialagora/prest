@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/prest/prest/cmd"
-	"github.com/prest/prest/config"
+	"github.com/materialagora/prest/cmd"
+	"github.com/materialagora/prest/config"
 )
 
 func main() {

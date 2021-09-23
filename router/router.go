@@ -2,9 +2,9 @@ package router
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/prest/prest/config"
-	"github.com/prest/prest/controllers"
-	"github.com/prest/prest/middlewares"
+	"github.com/materialagora/prest/config"
+	"github.com/materialagora/prest/controllers"
+	"github.com/materialagora/prest/middlewares"
 	"github.com/urfave/negroni"
 )
 

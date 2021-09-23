@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
+	"github.com/materialagora/prest/adapters"
+	"github.com/materialagora/prest/config"
 	"github.com/nuveo/log"
-	"github.com/prest/prest/adapters"
-	"github.com/prest/prest/config"
 )
 
 // GetTables list all (or filter) tables

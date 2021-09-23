@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/materialagora/prest/adapters"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/nuveo/log"
-	"github.com/prest/prest/adapters"
 	"github.com/spf13/viper"
 )
 

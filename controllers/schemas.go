@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/prest/prest/config"
+	"github.com/materialagora/prest/config"
 )
 
 // GetSchemas list all (or filter) schemas

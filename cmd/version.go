@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/prest/prest/helpers"
+	"github.com/materialagora/prest/helpers"
 	"github.com/spf13/cobra"
 )
 

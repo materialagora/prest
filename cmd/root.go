@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/materialagora/prest/adapters/postgres"
+	"github.com/materialagora/prest/config"
+	"github.com/materialagora/prest/router"
 	nlog "github.com/nuveo/log"
-	"github.com/prest/prest/adapters/postgres"
-	"github.com/prest/prest/config"
-	"github.com/prest/prest/router"
 	"github.com/spf13/cobra"
 )
 

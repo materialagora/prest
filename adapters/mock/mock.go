@@ -9,9 +9,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/prest/prest/adapters"
-	"github.com/prest/prest/adapters/scanner"
-	"github.com/prest/prest/config"
+	"github.com/materialagora/prest/adapters"
+	"github.com/materialagora/prest/adapters/scanner"
+	"github.com/materialagora/prest/config"
 )
 
 // Item mock

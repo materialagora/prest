@@ -11,8 +11,8 @@ import (
 
 	jwtmiddleware "github.com/auth0/go-jwt-middleware"
 	"github.com/form3tech-oss/jwt-go"
-	"github.com/prest/prest/config"
-	"github.com/prest/prest/controllers/auth"
+	"github.com/materialagora/prest/config"
+	"github.com/materialagora/prest/controllers/auth"
 	"github.com/urfave/negroni"
 )
 

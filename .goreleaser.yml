@@ -42,5 +42,5 @@ changelog:
     - go mod tidy
 release:
   github:
-    owner: prest
+    owner: materialagora
     name: prest

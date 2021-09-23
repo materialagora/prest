@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/prest/prest/config"
+	"github.com/materialagora/prest/config"
 )
 
 func TestMain(m *testing.M) {
